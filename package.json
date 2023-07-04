@@ -1,6 +1,6 @@
 {
   "name": "@tuanbloom/order-system-common",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,7 @@
   "author": "",
   "license": "ISC",
   "types": "index.d.ts",
-  "files": ["src"],
+  "files": ["src", "index.d.ts"],
   "dependencies": {
     "@types/uuid": "^9.0.2",
     "decimal.js": "^10.4.3",
