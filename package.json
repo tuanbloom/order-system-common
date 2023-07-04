@@ -4,11 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "tsc"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "types": "index.d.ts",
+  "files": ["src"],
   "dependencies": {
     "@types/uuid": "^9.0.2",
     "decimal.js": "^10.4.3",
