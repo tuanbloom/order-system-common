@@ -7,7 +7,7 @@
     "build": "tsc"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@order-system-tuanbloom"
+    "registry": "https://npm.pkg.github.com/@tuanbloom"
   },
   "keywords": [],
   "author": "",
