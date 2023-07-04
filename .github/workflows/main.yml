@@ -14,7 +14,7 @@ jobs:
         with:
           node-version: 16
           registry-url: https://npm.pkg.github.com/
-          scope: '@order-system-tuanbloom'
+          scope: '@tuanbloom'
       - run: npm install
       - run: npm publish
         env:
